@@ -32,3 +32,7 @@ Thumbs.db
 
 ### Docker ###
 docker-compose.override.yml
+
+# Backups locais de variáveis de ambiente
+.env~
+.env.*.bak
